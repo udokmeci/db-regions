@@ -35,6 +35,25 @@ Exception is why I have started. Data is now properly adjusted with the [given h
 
 Thank you for using and contributing. Hope it will save some time that I have lost.
 
+## Safe to Use?
+
+Some countries are good to go.
+
+ - Argentina
+ - Austria
+ - Brazil
+ - Canada
+ - China
+ - Germany
+ - India
+ - Indonesia
+ - Italy
+ - Japan
+ - Mexico
+ - Netherlands
+ - Thailand
+ - Turkey
+ - United States
 
 
 
