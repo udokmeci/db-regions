@@ -1,0 +1,16 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("FIPRZZT53G","FI","Åland",NULL),
+("FI0Q2IVB43","FI","Eastern Finland",NULL),
+("FITFBQBWT3","FI","Hame",NULL),
+("FIDPUJ6PYV","FI","Keski-Suomi",NULL),
+("FIHYVA3YR4","FI","Kuopio",NULL),
+("FIOTNK5RNY","FI","Kymi",NULL),
+("FI7YPJVIM9","FI","Lapponia",NULL),
+("FI8GSE6RAN","FI","Mikkeli",NULL),
+("FIP5YT4PYS","FI","Oulu",NULL),
+("FIJLCOC0NJ","FI","Pohjois-Karjala",NULL),
+("FIZD2VVP43","FI","Southern Finland",NULL),
+("FI6XICPT0F","FI","Turku ja Pori",NULL),
+("FIYY82O7V7","FI","Uusimaa",NULL),
+("FIS8W49KN8","FI","Vaasa",NULL),
+("FIXQ4TF8XL","FI","Western Finland",NULL);

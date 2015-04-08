@@ -1,0 +1,18 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("BT8ICPXQMW","BT","Bumthang",NULL),
+("BTS3HBBHC8","BT","Chhukha",NULL),
+("BTB24AFST2","BT","Chirang",NULL),
+("BTHU0HQJ0Z","BT","Daga",NULL),
+("BT1DOZ4AVX","BT","Geylegphug",NULL),
+("BTDC8PTKY5","BT","Ha",NULL),
+("BTN2F2V94C","BT","Lhuntshi",NULL),
+("BT45UUOVTQ","BT","Mongar",NULL),
+("BT8HPDSKA6","BT","Paro District",NULL),
+("BTXIVQ3TWR","BT","Pemagatsel",NULL),
+("BTWBURLY4P","BT","Samchi",NULL),
+("BT4YJTUDJ2","BT","Samdrup Jongkhar District",NULL),
+("BTU9GNUQTR","BT","Shemgang",NULL),
+("BT9PICJE4G","BT","Tashigang",NULL),
+("BTQY7BXC01","BT","Thimphu",NULL),
+("BTBKV5XF8S","BT","Tongsa",NULL),
+("BTOOGIF9AO","BT","Wangdi Phodrang",NULL);

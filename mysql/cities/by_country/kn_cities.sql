@@ -1,0 +1,15 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("KN9DQ34VB4","KN","Christ Church Nichola Town",NULL),
+("KNCO46PUE9","KN","Saint Anne Sandy Point",NULL),
+("KN6X1AY897","KN","Saint George Basseterre",NULL),
+("KNBC2PKCYU","KN","Saint George Gingerland",NULL),
+("KNQOXVK90W","KN","Saint James Windwa",NULL),
+("KNX43NYHW4","KN","Saint John Capesterre",NULL),
+("KNFXFE5PLG","KN","Saint John Figtree",NULL),
+("KN1N6M05GR","KN","Saint Mary Cayon",NULL),
+("KNTEMDNMAK","KN","Saint Paul Capesterre",NULL),
+("KNQD8PV4UA","KN","Saint Paul Charlestown",NULL),
+("KN19O7YAO0","KN","Saint Peter Basseterre",NULL),
+("KNYVMZ03QT","KN","Saint Thomas Lowland",NULL),
+("KNHD740IPQ","KN","Saint Thomas Middle Island",NULL),
+("KNVXGR2A14","KN","Trinity Palmetto Point",NULL);

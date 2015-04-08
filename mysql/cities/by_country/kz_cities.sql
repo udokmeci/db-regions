@@ -1,0 +1,18 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("KZQOUZU88R","KZ","Almaty",NULL),
+("KZXMCUW383","KZ","Almaty Qalasy",NULL),
+("KZ3AN8B01M","KZ","Aqmola",NULL),
+("KZXAY363NW","KZ","Aqtöbe",NULL),
+("KZSIVNR4FO","KZ","Astana Qalasy",NULL),
+("KZQRIMURQY","KZ","Atyraū",NULL),
+("KZ1D6DE80B","KZ","Batys Qazaqstan",NULL),
+("KZJZEP21LU","KZ","Bayqongyr Qalasy",NULL),
+("KZKHIBMXZC","KZ","East Kazakhstan",NULL),
+("KZPIZK9PIB","KZ","Mangghystaū",NULL),
+("KZ3PPHYPSH","KZ","Ongtüstik Qazaqstan",NULL),
+("KZO77R9TMT","KZ","Pavlodar",NULL),
+("KZB44X14AQ","KZ","Qaraghandy",NULL),
+("KZM9BVZT72","KZ","Qostanay",NULL),
+("KZJWJHLCZA","KZ","Qyzylorda",NULL),
+("KZK71U0NNB","KZ","Soltüstik Qazaqstan",NULL),
+("KZRS9TXJKK","KZ","Zhambyl",NULL);

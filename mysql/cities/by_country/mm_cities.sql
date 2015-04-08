@@ -1,0 +1,18 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("MME5QREOL0","MM","Ayeyarwady",NULL),
+("MMGYFUBXHN","MM","Bago",NULL),
+("MMG7UPZHHH","MM","Chin State",NULL),
+("MMNZWVQR34","MM","Kachin State",NULL),
+("MMXTWBHHCY","MM","Kayah State",NULL),
+("MMFRSRPAE6","MM","Kayin State",NULL),
+("MMI9VHQDZE","MM","Magway",NULL),
+("MMCW92OC7L","MM","Magwe",NULL),
+("MM63XOL9M1","MM","Mandalay",NULL),
+("MM1FSRQ6Y8","MM","Mon State",NULL),
+("MMFUP67PKK","MM","Pegu",NULL),
+("MMLTM96UUD","MM","Rakhine State",NULL),
+("MMXR1I1OK3","MM","Rangoon",NULL),
+("MM4CVUIT2Y","MM","Sagain",NULL),
+("MMOS4VHPF2","MM","Shan State",NULL),
+("MMJ2BPW63U","MM","Tanintharyi",NULL),
+("MMX4DZTX3X","MM","Yangon",NULL);
