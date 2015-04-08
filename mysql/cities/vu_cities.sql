@@ -1,0 +1,15 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("VUIIJAGW9K","VU","Ambrym",NULL),
+("VUWQ6E23P4","VU","Aoba/Maéwo",NULL),
+("VUHWIXS90M","VU","Éfaté",NULL),
+("VUQMRXDI8V","VU","Épi",NULL),
+("VU0S5GOF1L","VU","Malakula",NULL),
+("VU68Z8CPCT","VU","Malampa",NULL),
+("VUMVRE4S1V","VU","Paama",NULL),
+("VUESSRB1NB","VU","Penama",NULL),
+("VUTTSI9U3F","VU","Pentecôte",NULL),
+("VU22NES08E","VU","Sanma",NULL),
+("VUWZT1RUW6","VU","Shefa",NULL),
+("VUNPYZRLAK","VU","Shepherd",NULL),
+("VUF32OX540","VU","Tafea",NULL),
+("VU8RF1SNFO","VU","Torba",NULL);

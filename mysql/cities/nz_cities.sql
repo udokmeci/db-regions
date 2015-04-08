@@ -1,0 +1,17 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("NZ1Q2WO6ZG","NZ","Auckland",NULL),
+("NZHPTG23G1","NZ","Bay of Plenty",NULL),
+("NZXG1AX219","NZ","Canterbury",NULL),
+("NZ6CIU9FVB","NZ","Gisborne",NULL),
+("NZ6Y7U56AM","NZ","Hawkeʼs Bay",NULL),
+("NZW43Z8K05","NZ","Manawatu-Wanganui",NULL),
+("NZ02GY4H8A","NZ","Marlborough",NULL),
+("NZUR5361FD","NZ","Nelson",NULL),
+("NZZM75TIRQ","NZ","Northland",NULL),
+("NZNUPVEP1F","NZ","Otago",NULL),
+("NZSHEWYM7S","NZ","Southland",NULL),
+("NZEDWLECYE","NZ","Taranaki",NULL),
+("NZY6JSOBIC","NZ","Tasman",NULL),
+("NZ588KY90Q","NZ","Waikato",NULL),
+("NZRFNQ1UIG","NZ","Wellington",NULL),
+("NZ8F1MRZ1Q","NZ","West Coast",NULL);

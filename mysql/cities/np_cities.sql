@@ -1,0 +1,15 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("NP21U97UXO","NP","Bāgmatī",NULL),
+("NPW3IIYYXD","NP","Bherī",NULL),
+("NPGH7SV29P","NP","Dhawalāgiri",NULL),
+("NPEQ4RQG3T","NP","Gandakī",NULL),
+("NPIY2QSZEP","NP","Janakpur",NULL),
+("NP3X81V5EC","NP","Karnālī",NULL),
+("NPNL5JOF93","NP","Kosī",NULL),
+("NP5DUWUYQC","NP","Lumbinī",NULL),
+("NPWS2PSHFV","NP","Mahākālī",NULL),
+("NPENXATBNG","NP","Mechī",NULL),
+("NPXTZL88OD","NP","Nārāyanī",NULL),
+("NPMJAGI0TE","NP","Rāptī",NULL),
+("NPTV4MDJHR","NP","Sagarmāthā",NULL),
+("NP7E21QPIO","NP","Setī",NULL);

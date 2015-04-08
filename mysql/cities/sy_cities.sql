@@ -1,0 +1,15 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("SYOZ91FE8T","SY","Al-Hasakah",NULL),
+("SY8XVF17TR","SY","Aleppo",NULL),
+("SYSZFNHRAT","SY","Ar-Raqqah",NULL),
+("SYPQ5UE7G3","SY","As-Suwayda",NULL),
+("SY6Q4M5DFD","SY","Damascus City",NULL),
+("SYAATBIM3B","SY","Daraa",NULL),
+("SYMIZ499YZ","SY","Deir ez-Zor",NULL),
+("SY03TEA9HH","SY","Hama Governorate",NULL),
+("SYZM340JIA","SY","Homs",NULL),
+("SYUCLDYPOL","SY","Idlib",NULL),
+("SY7OPHXNGY","SY","Latakia",NULL),
+("SYR9C1JUJI","SY","Quneitra",NULL),
+("SYHNNH66R1","SY","Rif-dimashq",NULL),
+("SYIDEH232A","SY","Tartus",NULL);

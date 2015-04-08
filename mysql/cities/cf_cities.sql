@@ -1,0 +1,18 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("CF6W3KSAG6","CF","Bamingui-Bangoran",NULL),
+("CFLT66OWSY","CF","Bangui",NULL),
+("CF1BVBBK23","CF","Basse-Kotto",NULL),
+("CFUCNACW2I","CF","Haut-Mbomou",NULL),
+("CFS62LHJR2","CF","Haute-Kotto",NULL),
+("CFDX91T20V","CF","Kémo",NULL),
+("CFDV6PG9SA","CF","Lobaye",NULL),
+("CFLGKXDNG5","CF","Mambéré-Kadéï",NULL),
+("CFTJRA2IDG","CF","Mbomou",NULL),
+("CFGNHAPH52","CF","Nana-Grébizi",NULL),
+("CFDBRULK46","CF","Nana-Mambéré",NULL),
+("CF1P4EDKK7","CF","Ombella-Mpoko",NULL),
+("CF4BI6TVNA","CF","Ouaka",NULL),
+("CFJ4K8MQB0","CF","Ouham",NULL),
+("CF13UNNZTO","CF","Ouham-Pendé",NULL),
+("CFOY32JN9N","CF","Sangha-Mbaéré",NULL),
+("CFYRUSNH26","CF","Vakaga",NULL);

@@ -1,0 +1,15 @@
+INSERT INTO `city` (`uid`,`country_code`,`name`,`state`) VALUES
+("TTIWR24GV1","TT","Arima",NULL),
+("TTCVW5Y089","TT","Chaguanas",NULL),
+("TTKT2AWOMU","TT","Couva-Tabaquite-Talparo",NULL),
+("TTR58A092J","TT","Diego Martin",NULL),
+("TT6TLAAHBN","TT","Penal-Debe",NULL),
+("TTD8SB91LT","TT","Point Fortin Borough",NULL),
+("TTVN3RCQL4","TT","Port of Spain",NULL),
+("TTVUEV3GE9","TT","Princes Town",NULL),
+("TTA0KKIV8V","TT","Rio Claro-Mayaro",NULL),
+("TT407D2T6Y","TT","San Fernando",NULL),
+("TTGAPT0BYW","TT","San Juan-Laventille",NULL),
+("TT5CS9T6J4","TT","Sangre Grande",NULL),
+("TT73OPZWL3","TT","Siparia",NULL),
+("TTXTH0MOY3","TT","Tunapuna-Piarco",NULL);
